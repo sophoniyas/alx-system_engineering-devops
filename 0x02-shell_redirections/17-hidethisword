@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep   -V "bin" /etc/passwid
+egrep  -V "bin" /etc/passwid
