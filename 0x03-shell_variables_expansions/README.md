@@ -1,3 +1,1 @@
-this executable file creates an alias with a name of ls and value to rm
-
-
+this executable file will  prints hello where user is the current Linux user
